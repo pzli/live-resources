@@ -1,0 +1,20 @@
+{
+  "name": "live-resources",
+  "version": "1.0.1",
+  "description": "一个爬取直播信息的npm包",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pzli",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  }
+}
